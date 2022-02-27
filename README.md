@@ -1,6 +1,6 @@
 # Markov Chains Prediction framework
 
-The application multiplies a probability vector with a transition matrix multiple times (n steps - user defined). On each step the values from the resulting probability vectors are plotted on a chart. The resulting curves indicate the behavior of the system in a number of n steps.
+The application multiplies a probability vector with a transition matrix multiple times (n steps - user defined). On each step the values from the resulting probability vectors are plotted on a chart. The resulting curves on the chart indicate the behavior of the system in a number of n steps.
 
 [This version in JS](https://gagniuc.github.io/Predictions-with-Markov-Chains/) can also be of use: [Predictions with Markov Chains](https://github.com/Gagniuc/Predictions-with-Markov-Chains)
 
