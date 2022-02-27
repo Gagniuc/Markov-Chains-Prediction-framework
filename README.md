@@ -3,6 +3,8 @@ Markov Chains - Prediction framework - Visual Basic 6.0 (VB6)
 
 The application multiplies a probability vector with a transition matrix multiple times (n steps). Each result is
 
+[This version in JS](https://gagniuc.github.io/Predictions-with-Markov-Chains/) can also be of use: [Predictions with Markov Chains](https://github.com/Gagniuc/Predictions-with-Markov-Chains)
+
 
 ![screenshot](https://github.com/Gagniuc/Markov-Chains-Prediction-framework/blob/main/Markov%20Chains%20-%20Prediction%20framework.PNG)
 
